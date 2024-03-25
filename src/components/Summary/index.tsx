@@ -10,7 +10,7 @@ export function Summary(){
                     <span> 
                         Entradas
                     </span>
-                    <ArrowCircleUp size={32} color="#7A22D3" />
+                    <ArrowCircleUp size={32} color="#00875F" />
                 </header>
 
                 <strong>R$ 17.400,00</strong>
